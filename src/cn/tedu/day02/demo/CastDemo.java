@@ -1,7 +1,8 @@
 package cn.tedu.day02.demo;
 //测试github 0709
 //kkkkkkkkkkccccccccc
-//444444444444444
+//33333333333333333333
+//44444444444444444444
 public class CastDemo {
 	public static void main(String[] args) {
 		A1 a1=new A2();  //向上造型 不能访问子类中特有的成员

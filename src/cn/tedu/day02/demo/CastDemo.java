@@ -1,6 +1,6 @@
 package cn.tedu.day02.demo;
 //改动
-//主分支1的测试
+//主分支2的测试
 public class CastDemo {
 	public static void main(String[] args) {
 		A1 a1=new A2();  //向上造型 不能访问子类中特有的成员
